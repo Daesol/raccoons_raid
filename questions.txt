@@ -1,0 +1,3 @@
+Q1. When placing a character on a board, can we place raccoon then unlocked
+garbage can on the same coordinate?
+
